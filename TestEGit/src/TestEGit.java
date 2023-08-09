@@ -5,5 +5,5 @@ public class TestEGit {
 	
 	String test = "test";
 	
-	
+	String commit = "second commit";
 }
